@@ -8,10 +8,10 @@ Phân tích hành vi sử dụng thẻ tín dụng của người dùng thông q
     - Tổng số tiền giao dịch
     - Số lượng giao dịch mỗi tháng 
     - Số lượng giao dịch mỗi năm
-    - Giá trị giao dịch trung bình
-    - Số lượng giao dịch theo giờ 
+    - Số lượng giao dịch theo ngày
     - Số lượng giao dịch theo thứ trong tuần 
-    - Số lượng giao dịch theo ngày trong tháng 
+    - Số lượng giao dịch theo giờ
+    - Giá trị giao dịch trung bình
   - **Độ tuổi**: Tìm hiểu các xu hướng sử dụng tín dụng ở các nhóm tuổi khác nhau thông qua các chỉ số:
     - Tổng giao dịch của các nhóm độ tuổi 
     - Tổng giá trị giao dịch của các nhóm độ tuổi 
@@ -45,6 +45,10 @@ Phân tích hành vi sử dụng thẻ tín dụng của người dùng thông q
 # 4.  Insight
 - Nữ giới giao dịch và chi tiêu nhiều hơn nam giới, nhưng chênh lệch không lớn
 - 2 tháng đầu năm 2020 có tăng hơn 60% giao dịch so với các 2 tháng đầu năm 2018 và 2019 cần tìm hiểu lí do để duy trì và tăng số lượng giao dịch
-- 
-
- 
+- Có sự giảm nhẹ số lượng giao dịch vào tháng 1 năm 2018 2019
+- Tháng 1 năm 2020 số lượng giao dich tăng 70% so với tháng 1 năm 1018 và tăng 66% so với tháng 1 năm 2019
+- Tháng 2 năm 2020 số lượng giao dịch tăng 106% so với với tháng 2 năm 2018 và tăng 97% so với tháng 2 năm 2019
+- Số lượng giao dịch thường giảm vào nhưng ngày cuối tháng
+- Xu hướng giao dịch của năm có xu hướng ổn định
+- Thời gian giao dịch diễn ra nhiều nhất là khoảng từ 7h - > 16h
+- Giá trị giao dịch trung bình ở nam giới và nữ giới có sự chênh lệch nhỏ, giá trị tb ở mức khoảng 50 đô 
