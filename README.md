@@ -43,6 +43,8 @@ Phân tích hành vi sử dụng thẻ tín dụng của người dùng thông q
   - **Users**: Chứa thông tin chủ thẻ tín dụng gồm: ID, Tên, Tuổi, Năm sinh, Giới tính, địa chỉ, thu nhập hàng năm, tổng nợ tín dụng, điểm tín dụng, số lượng thẻ tín dụng sở hữu
   - **Cards**: Chứa thông tin về các thẻ tín dụng gồm: ID_User, ID_Card, Loại thẻ, Số thẻ, ngày hết hạn, ngày đăng ký, Giới hạn tín dụng
 # 4.  Insight
-
+- Nữ giới giao dịch và chi tiêu nhiều hơn nam giới, nhưng chênh lệch không lớn
+- 2 tháng đầu năm 2020 có tăng hơn 60% giao dịch so với các 2 tháng đầu năm 2018 và 2019 cần tìm hiểu lí do để duy trì và tăng số lượng giao dịch
+- 
 
  
